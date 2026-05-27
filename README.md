@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- IMAGE 1: Banner — upload a project banner/cover image to Cloudinary and replace the URL below -->
-<img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_BANNER_IMAGE.png"
+<img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779899532/icon_vhtwiy.png"
      alt="Skin Cancer Classification Banner"
      width="100%"/>
 
@@ -120,7 +120,7 @@ Data augmentation applied during training: `rotation_range=20`, `zoom_range=0.2`
 <!-- IMAGE 4: Confusion matrix — export and upload your confusion matrix plot to Cloudinary, then replace the URL below -->
 
 <div align="center">
-<img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_CONFUSION_MATRIX.png"
+<img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779898323/53d14644-5a2c-420c-a5a6-390841d95c9c_wr8ei6.png"
      alt="Confusion Matrix"
      width="500"/>
 </div>
@@ -143,7 +143,7 @@ Data augmentation applied during training: `rotation_range=20`, `zoom_range=0.2`
 
 | Benign Prediction | Malignant Prediction |
 | :---: | :---: |
-| <img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_PREDICTION_BENIGN.png" alt="Benign prediction output" width="380"/> | <img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_PREDICTION_MALIGNANT.png" alt="Malignant prediction output" width="380"/> |
+| <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779899128/Gemini_Generated_Image_piq6qipiq6qipiq6_ph0mgd.png" alt="Benign prediction output" width="380"/> | <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779898567/Screenshot_2025-10-05_203641_wxekfl.png" alt="Malignant prediction output" width="380"/> |
 
 </div>
 
