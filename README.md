@@ -3,7 +3,7 @@
 <!-- IMAGE 1: Banner — upload a project banner/cover image to Cloudinary and replace the URL below -->
 <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779899532/icon_vhtwiy.png"
      alt="Skin Cancer Classification Banner"
-     width="100%"/>
+     width="50%"/>
 
 # Skin Cancer Classification System
 ### Deep Learning · DenseNet-121 · Transfer Learning · Binary Classification
