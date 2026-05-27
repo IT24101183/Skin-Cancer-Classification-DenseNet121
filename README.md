@@ -85,7 +85,7 @@ Dataset sourced from [Roboflow](https://roboflow.com/) — *Skin Cancer Detectio
 
 | Benign Sample | Malignant Sample |
 | :---: | :---: |
-| <img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_BENIGN_SAMPLE.jpg" alt="Benign lesion sample" width="300"/> | <img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_MALIGNANT_SAMPLE.jpg" alt="Malignant lesion sample" width="300"/> |
+| <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779897639/melanoma_153_jpg.rf.2480897b567de5d54f4ca7f8fa507fa3_oag1nw.jpg" alt="Benign lesion sample" width="300"/> | <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779897728/melanoma_5177_jpg.rf.f9b5ecaf94577f4dc2f1c39ecd6004c2_scbuw5.jpg" alt="Malignant lesion sample" width="300"/> |
 | Benign (No Cancer) | Malignant (Cancer Detected) |
 
 </div>
